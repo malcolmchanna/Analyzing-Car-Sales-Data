@@ -1,4 +1,31 @@
-,Make,Model,Year,Price,Mileage,Color,Location 
-0,toyota, corolla,2018,234,,black,karachi
-1,honda,civic,2019,456,299.999,green,lahore
-2,ford,focus,2020,678,3999.67,white,landhi
+Make,Model,Year,Price,Mileage,Color,Location
+Toyota,Corolla,2018,12000,35000,Black,Los Angeles
+Honda,Civic,2019,15000,25000,Blue,New York
+Ford,Focus,2017,10000,45000,White,Chicago
+Nissan,Altima,2020,18000,15000,Silver,Miami
+Mazda,CX-5,2021,25000,5000,Red,San Francisco
+Volkswagen,Jetta,2018,14000,30000,Black,Dallas
+Kia,Optima,2019,17000,20000,Gray,Boston
+Chevrolet,Malibu,2017,11000,40000,White,Atlanta
+Hyundai,Sonata,2020,19000,12000,Blue,Washington D.C.
+Subaru,Legacy,2021,27000,8000,Green,Seattle
+Toyota,Camry,2018,16000,35000,Red,Houston
+Honda,Accord,2019,19000,20000,Black,Philadelphia
+Ford,Mustang,2017,22000,25000,Yellow,Los Angeles
+Nissan,Maxima,2020,25000,10000,Black,Miami
+Mazda,Mazda6,2021,30000,5000,Blue,San Francisco
+Volkswagen,Passat,2018,18000,30000,Gray,Dallas
+Kia,Stinger,2019,27000,20000,Red,Boston
+Chevrolet,Camaro,2017,25000,25000,Blue,Atlanta
+Hyundai,Elantra,2020,15000,15000,Black,Washington D.C.
+Subaru,Impreza,2021,23000,8000,White,Seattle
+Toyota,Avalon,2018,22000,40000,Silver,Houston
+Honda,Insight,2019,18000,20000,Green,Philadelphia
+Ford,Fusion,2017,13000,50000,Red,Los Angeles
+Nissan,Sentra,2020,17000,20000,White,New York
+Mazda,MX-5 Miata,2021,35000,1000,Red,San Francisco
+Volkswagen,Golf,2018,17000,40000,Black,Dallas
+Kia,Rio,2019,13000,30000,Blue,Boston
+Chevrolet,Spark,2017,8000,45000,Silver,Atlanta
+Hyundai,Accent,2020,14000,15000,Gray,Washington D.C.
+Subaru,Crosstrek,2021,28000,8000,Orange,Seattle
